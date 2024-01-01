@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-secondary-light dark:bg-primary-dark min-h-screen flex flex-col">
+  <div class="bg-secondary-light dark:bg-primary-dark min-h-screen flex flex-col font-primary">
     <!-- App header -->
     <SharedAppHeader />
   

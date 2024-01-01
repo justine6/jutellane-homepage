@@ -6,6 +6,11 @@ export default <Partial<Config>> {
   content: [],
   theme: {
     extend: {
+      fontFamily:{
+        'sans': ['Poppins'],
+        'display': ['Poppins'],
+        'body': ['Poppins'],
+      },
       colors: {
         "primary-light": "#F7F8FC",
         "secondary-light": "#FFFFFF",
@@ -31,6 +36,6 @@ export default <Partial<Config>> {
       opacity: ["disabled"],
     },
   },
-  plugins: [require("@tailwindcss/forms")],
+  plugins: [],
 }
 
