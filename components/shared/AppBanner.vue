@@ -138,7 +138,7 @@ export default {
                   <div class="z-10 sm:col-span-6">
                     <h3 class="font-medium leading-snug text-slate-200">
                       <div>
-                        <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="#" target="_blank" rel="noreferrer noopener" aria-label="Lead Engineer at Upstatement (opens in a new tab)">
+                        <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500  group/link text-base" href="#" target="_blank" rel="noreferrer noopener" aria-label="Lead Engineer at Upstatement (opens in a new tab)">
                           <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                           <span>Cloud Engineer · <!-- --> 
                             <span class="inline-block">FANNIE MAE
@@ -165,25 +165,25 @@ export default {
                     </p>
                     <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">AWS</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">AWS</div>
                       </li>
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">CI/CD</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">CI/CD</div>
                       </li>
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Kubernetes</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">Kubernetes</div>
                       </li>
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Python</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">Python</div>
                       </li>
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Git</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">Git</div>
                       </li>
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Jenkins</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">Jenkins</div>
                       </li>
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Amazon S3</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">Amazon S3</div>
                       </li>
                     </ul>
                   </div>
@@ -199,7 +199,7 @@ export default {
                   <div class="z-10 sm:col-span-6">
                     <h3 class="font-medium leading-snug text-slate-200">
                       <div>
-                        <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://www.apple.com/apple-music/" target="_blank" rel="noreferrer noopener" aria-label="UI Engineer Co-op at Apple (opens in a new tab)">
+                        <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500  group/link text-base" href="https://www.apple.com/apple-music/" target="_blank" rel="noreferrer noopener" aria-label="UI Engineer Co-op at Apple (opens in a new tab)">
                           <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                           <span>DevOps Engineer · <!-- --> 
                             <span class="inline-block">Apple
@@ -226,7 +226,7 @@ export default {
                     
                     <!-- <ul class="mt-2 flex flex-wrap" aria-label="Related links">
                         <li class="mr-4">
-                          <a class="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-teal-300 focus-visible:text-teal-300" href="https://developer.apple.com/documentation/musickitjs" target="_blank" rel="noreferrer noopener" aria-label="MusicKit.js (opens in a new tab)">
+                          <a class="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-indigo-500 focus-visible:text-indigo-500" href="https://developer.apple.com/documentation/musickitjs" target="_blank" rel="noreferrer noopener" aria-label="MusicKit.js (opens in a new tab)">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="mr-1 h-3 w-3" aria-hidden="true">
                               <path d="M12.232 4.232a2.5 2.5 0 013.536 3.536l-1.225 1.224a.75.75 0 001.061 1.06l1.224-1.224a4 4 0 00-5.656-5.656l-3 3a4 4 0 00.225 5.865.75.75 0 00.977-1.138 2.5 2.5 0 01-.142-3.667l3-3z"></path>
                               <path d="M11.603 7.963a.75.75 0 00-.977 1.138 2.5 2.5 0 01.142 3.667l-3 3a2.5 2.5 0 01-3.536-3.536l1.225-1.224a.75.75 0 00-1.061-1.06l-1.224 1.224a4 4 0 105.656 5.656l3-3a4 4 0 00-.225-5.865z"></path>
@@ -235,7 +235,7 @@ export default {
                           </a>
                         </li>
                         <li class="mr-4">
-                          <a class="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-teal-300 focus-visible:text-teal-300" href="https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/" target="_blank" rel="noreferrer noopener" aria-label="9to5Mac (opens in a new tab)">
+                          <a class="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-indigo-500 focus-visible:text-indigo-500" href="https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/" target="_blank" rel="noreferrer noopener" aria-label="9to5Mac (opens in a new tab)">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="mr-1 h-3 w-3" aria-hidden="true">
                               <path d="M12.232 4.232a2.5 2.5 0 013.536 3.536l-1.225 1.224a.75.75 0 001.061 1.06l1.224-1.224a4 4 0 00-5.656-5.656l-3 3a4 4 0 00.225 5.865.75.75 0 00.977-1.138 2.5 2.5 0 01-.142-3.667l3-3z"></path>
                               <path d="M11.603 7.963a.75.75 0 00-.977 1.138 2.5 2.5 0 01.142 3.667l-3 3a2.5 2.5 0 01-3.536-3.536l1.225-1.224a.75.75 0 00-1.061-1.06l-1.224 1.224a4 4 0 105.656 5.656l3-3a4 4 0 00-.225-5.865z"></path>
@@ -244,7 +244,7 @@ export default {
                           </a>
                         </li>
                         <li class="mr-4">
-                          <a class="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-teal-300 focus-visible:text-teal-300" href="https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming" target="_blank" rel="noreferrer noopener" aria-label="The Verge (opens in a new tab)">
+                          <a class="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-indigo-500 focus-visible:text-indigo-500" href="https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming" target="_blank" rel="noreferrer noopener" aria-label="The Verge (opens in a new tab)">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="mr-1 h-3 w-3" aria-hidden="true">
                               <path d="M12.232 4.232a2.5 2.5 0 013.536 3.536l-1.225 1.224a.75.75 0 001.061 1.06l1.224-1.224a4 4 0 00-5.656-5.656l-3 3a4 4 0 00.225 5.865.75.75 0 00.977-1.138 2.5 2.5 0 01-.142-3.667l3-3z"></path>
                               <path d="M11.603 7.963a.75.75 0 00-.977 1.138 2.5 2.5 0 01.142 3.667l-3 3a2.5 2.5 0 01-3.536-3.536l1.225-1.224a.75.75 0 00-1.061-1.06l-1.224 1.224a4 4 0 105.656 5.656l3-3a4 4 0 00-.225-5.865z"></path>
@@ -256,22 +256,22 @@ export default {
 
                     <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">MS Office</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">MS Office</div>
                       </li>
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Linux</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">Linux</div>
                       </li>
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Cloud Computing</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">Cloud Computing</div>
                       </li>
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Bash Scripting</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">Bash Scripting</div>
                       </li>
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">JSON</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">JSON</div>
                       </li>
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">YAML</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">YAML</div>
                       </li>
                     </ul>
                   </div>
@@ -287,7 +287,7 @@ export default {
                   <div class="z-10 sm:col-span-6">
                     <h3 class="font-medium leading-snug text-slate-200">
                       <div>
-                        <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://scout.camd.northeastern.edu/" target="_blank" rel="noreferrer noopener" aria-label="Developer at Scout Studio (opens in a new tab)">
+                        <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500  group/link text-base" href="https://scout.camd.northeastern.edu/" target="_blank" rel="noreferrer noopener" aria-label="Developer at Scout Studio (opens in a new tab)">
                           <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                           <span>Internship · JJ Tech Inc.<!-- --> 
                             <span class="inline-block">
@@ -315,43 +315,43 @@ export default {
 
                       <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                         <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">AWS IAM</div>
+                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">AWS IAM</div>
                         </li>
                         <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Terraform</div>
+                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">Terraform</div>
                         </li>
                         <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">CloudFormation</div>
+                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">CloudFormation</div>
                         </li>
                         <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Ansible</div>
+                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">Ansible</div>
                         </li>
                         <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">VPC</div>
+                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">VPC</div>
                         </li>
                         <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">CloudFront</div>
+                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">CloudFront</div>
                         </li>
                         <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">AWS KMS</div>
+                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">AWS KMS</div>
                         </li>
                         <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">NAT</div>
+                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">NAT</div>
                         </li>
                         <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Route 53</div>
+                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">Route 53</div>
                         </li>
                         <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">AWS CloudHSM</div>
+                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">AWS CloudHSM</div>
                         </li>
                         <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">TGW</div>
+                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">TGW</div>
                         </li>
                         <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">AWS Lambda</div>
+                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">AWS Lambda</div>
                         </li>
                         <li class="mr-1.5 mt-2">
-                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Docker</div>
+                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">Docker</div>
                         </li>
                       </ul>
                     </div>
@@ -367,7 +367,7 @@ export default {
                   <div class="z-10 sm:col-span-6">
                     <h3 class="font-medium leading-snug text-slate-200">
                       <div>
-                        <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://starry.com/" target="_blank" rel="noreferrer noopener" aria-label="Software Engineer Co-op at Starry (opens in a new tab)">
+                        <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500  group/link text-base" href="https://starry.com/" target="_blank" rel="noreferrer noopener" aria-label="Software Engineer Co-op at Starry (opens in a new tab)">
                           <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                           <span>Natural Science Teacher  · <!-- --> 
                             <span class="inline-block">Ministry of Secondary Education
@@ -397,7 +397,7 @@ export default {
                     
                     <!-- <ul class="mt-2 flex flex-wrap" aria-label="Related links">
                         <li class="mr-4">
-                          <a class="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-teal-300 focus-visible:text-teal-300" href="https://play.google.com/store/apps/details?id=com.starry.management&amp;hl=en_US&amp;gl=US" target="_blank" rel="noreferrer noopener" aria-label="Android App (opens in a new tab)">
+                          <a class="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-indigo-500 focus-visible:text-indigo-500" href="https://play.google.com/store/apps/details?id=com.starry.management&amp;hl=en_US&amp;gl=US" target="_blank" rel="noreferrer noopener" aria-label="Android App (opens in a new tab)">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="mr-1 h-3 w-3" aria-hidden="true">
                               <path d="M12.232 4.232a2.5 2.5 0 013.536 3.536l-1.225 1.224a.75.75 0 001.061 1.06l1.224-1.224a4 4 0 00-5.656-5.656l-3 3a4 4 0 00.225 5.865.75.75 0 00.977-1.138 2.5 2.5 0 01-.142-3.667l3-3z"></path><path d="M11.603 7.963a.75.75 0 00-.977 1.138 2.5 2.5 0 01.142 3.667l-3 3a2.5 2.5 0 01-3.536-3.536l1.225-1.224a.75.75 0 00-1.061-1.06l-1.224 1.224a4 4 0 105.656 5.656l3-3a4 4 0 00-.225-5.865z"></path>
                             </svg>
@@ -405,7 +405,7 @@ export default {
                           </a>
                         </li>
                         <li class="mr-4">
-                          <a class="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-teal-300 focus-visible:text-teal-300" href="https://starry.com/blog/product/whats-new-screentime-just-got-better-for-parents" target="_blank" rel="noreferrer noopener" aria-label="ScreenTime 2.0 (opens in a new tab)">
+                          <a class="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-indigo-500 focus-visible:text-indigo-500" href="https://starry.com/blog/product/whats-new-screentime-just-got-better-for-parents" target="_blank" rel="noreferrer noopener" aria-label="ScreenTime 2.0 (opens in a new tab)">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="mr-1 h-3 w-3" aria-hidden="true">
                               <path d="M12.232 4.232a2.5 2.5 0 013.536 3.536l-1.225 1.224a.75.75 0 001.061 1.06l1.224-1.224a4 4 0 00-5.656-5.656l-3 3a4 4 0 00.225 5.865.75.75 0 00.977-1.138 2.5 2.5 0 01-.142-3.667l3-3z"></path>
                               <path d="M11.603 7.963a.75.75 0 00-.977 1.138 2.5 2.5 0 01.142 3.667l-3 3a2.5 2.5 0 01-3.536-3.536l1.225-1.224a.75.75 0 00-1.061-1.06l-1.224 1.224a4 4 0 105.656 5.656l3-3a4 4 0 00-.225-5.865z"></path>
@@ -417,19 +417,19 @@ export default {
 
                     <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Teaching</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">Teaching</div>
                       </li>
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Communication</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">Communication</div>
                       </li>
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">MS Office</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">MS Office</div>
                       </li>
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Public Speaking</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">Public Speaking</div>
                       </li>
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Curriculum Design</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">Curriculum Design</div>
                       </li>
                     </ul>
                   </div>
@@ -443,7 +443,7 @@ export default {
                   <div class="z-10 sm:col-span-6">
                     <h3 class="font-medium leading-snug text-slate-200">
                       <div>
-                        <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://us.mullenlowe.com/" target="_blank" rel="noreferrer noopener" aria-label="Creative Technologist Co-op at MullenLowe U.S. (opens in a new tab)">
+                        <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500  group/link text-base" href="https://us.mullenlowe.com/" target="_blank" rel="noreferrer noopener" aria-label="Creative Technologist Co-op at MullenLowe U.S. (opens in a new tab)">
                           <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                           <span>Creative Technologist Co-op · MullenLowe 
                             <span class="inline-block">U.S.
@@ -460,16 +460,16 @@ export default {
                     </p>
                     <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">HTML</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">HTML</div>
                       </li>
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">CSS</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">CSS</div>
                       </li>
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">JavaScript</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">JavaScript</div>
                       </li>
                       <li class="mr-1.5 mt-2">
-                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">jQuery</div>
+                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-indigo-500 ">jQuery</div>
                       </li>
                     </ul>
                   </div>
@@ -478,7 +478,7 @@ export default {
             </ol>
 
             <div class="mt-12">
-              <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 font-semibold text-slate-200 group/link text-base" href="/Longla-justine-T-resume.docx" target="_blank" rel="noreferrer noopener" aria-label="View Full Résumé (opens in a new tab)">
+              <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500 font-semibold text-slate-200 group/link text-base" href="/Longla-justine-T-resume.docx" target="_blank" rel="noreferrer noopener" aria-label="View Full Résumé (opens in a new tab)">
                 <span>View Full <!-- --> 
                   <span class="inline-block">Résumé
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
@@ -504,7 +504,7 @@ export default {
                   <div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                   <div class="z-10 sm:order-2 sm:col-span-6">
                     <h3>
-                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="
+                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500  group/link text-base" href="
 https://learn.microsoft.com/api/credentials/share/en-us/FNULonglaJustineTekang-3036/A79699446CCC4193?sharingId" target="_blank" rel="noreferrer noopener" aria-label="Build a Spotify Connected App (opens in a new tab)">
                         <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                         <span>DevOps Engineer Expert . <!-- --> 
@@ -534,7 +534,7 @@ https://learn.microsoft.com/api/credentials/share/en-us/FNULonglaJustineTekang-3
                   <div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                   <div class="z-10 sm:order-2 sm:col-span-6">
                     <h3>
-                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://learn.microsoft.com/en-us/users/fnulonglajustinetekang-3036/credentials/c36766020902a63d" target="_blank" rel="noreferrer noopener" aria-label="Spotify Profile (opens in a new tab)">
+                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500  group/link text-base" href="https://learn.microsoft.com/en-us/users/fnulonglajustinetekang-3036/credentials/c36766020902a63d" target="_blank" rel="noreferrer noopener" aria-label="Spotify Profile (opens in a new tab)">
                         <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                         <span>Power BI Data Analyst Associate . 
                           <span class="inline-block">Microsoft Certified
@@ -559,7 +559,7 @@ https://learn.microsoft.com/api/credentials/share/en-us/FNULonglaJustineTekang-3
                   <div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                   <div class="z-10 sm:order-2 sm:col-span-6">
                     <h3>
-                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://apps.hhs.texas.gov/providers/hipaa/privacy/index.cfm" target="_blank" rel="noreferrer noopener" aria-label="HIPAA Privacy Training (opens in a new tab)">
+                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500  group/link text-base" href="https://apps.hhs.texas.gov/providers/hipaa/privacy/index.cfm" target="_blank" rel="noreferrer noopener" aria-label="HIPAA Privacy Training (opens in a new tab)">
                         <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                         <span>HIPAA Privacy Training . 
                           <span class="inline-block">Texas Gov<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
@@ -583,7 +583,7 @@ https://learn.microsoft.com/api/credentials/share/en-us/FNULonglaJustineTekang-3
                   <div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                   <div class="z-10 sm:order-2 sm:col-span-6">
                     <h3>
-                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://learn.microsoft.com/en-us/users/fnulonglajustinetekang-3036/credentials/ecbbced5c3ab7bcb" target="_blank" rel="noreferrer noopener" aria-label="Microsoft Certified: Azure Administrator Associate (opens in a new tab)">
+                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500  group/link text-base" href="https://learn.microsoft.com/en-us/users/fnulonglajustinetekang-3036/credentials/ecbbced5c3ab7bcb" target="_blank" rel="noreferrer noopener" aria-label="Microsoft Certified: Azure Administrator Associate (opens in a new tab)">
                         <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                         <span>Azure Administrator Associate . 
                           <span class="inline-block">Microsoft Certified
@@ -609,7 +609,7 @@ https://learn.microsoft.com/api/credentials/share/en-us/FNULonglaJustineTekang-3
                   <div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                   <div class="z-10 sm:order-2 sm:col-span-6">
                     <h3>
-                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://www.credly.com/badges/15625bfd-ae3f-4402-99bf-b3125beaf4b4/linked_in_profile" target="_blank" rel="noreferrer noopener" aria-label="AWS Certified Solutions Architect – Associate (opens in a new tab)">
+                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500  group/link text-base" href="https://www.credly.com/badges/15625bfd-ae3f-4402-99bf-b3125beaf4b4/linked_in_profile" target="_blank" rel="noreferrer noopener" aria-label="AWS Certified Solutions Architect – Associate (opens in a new tab)">
                         <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                         <span>Solutions Architect – Associate . 
                           <span class="inline-block">AWS Certified
@@ -636,7 +636,7 @@ https://learn.microsoft.com/api/credentials/share/en-us/FNULonglaJustineTekang-3
                   <div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                   <div class="z-10 sm:order-2 sm:col-span-6">
                     <h3>
-                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://www.credly.com/badges/58fce39c-5a8e-47db-9f88-2458c01ea341/linked_in_profile" target="_blank" rel="noreferrer noopener" aria-label="AWS Certified: Solutions Architect Professional (opens in a new tab)">
+                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500  group/link text-base" href="https://www.credly.com/badges/58fce39c-5a8e-47db-9f88-2458c01ea341/linked_in_profile" target="_blank" rel="noreferrer noopener" aria-label="AWS Certified: Solutions Architect Professional (opens in a new tab)">
                         <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                         <span>Solutions Architect Professional . 
                           <span class="inline-block">AWS Certified
@@ -663,7 +663,7 @@ https://learn.microsoft.com/api/credentials/share/en-us/FNULonglaJustineTekang-3
                   <div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                   <div class="z-10 sm:order-2 sm:col-span-6">
                     <h3>
-                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://www.credly.com/badges/64abfec9-8d74-4a59-96d1-77d989d9dad0/linked_in_profile" target="_blank" rel="noreferrer noopener" aria-label="AWS CLOUD QUEST – Cloud Practitioner (opens in a new tab)">
+                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500  group/link text-base" href="https://www.credly.com/badges/64abfec9-8d74-4a59-96d1-77d989d9dad0/linked_in_profile" target="_blank" rel="noreferrer noopener" aria-label="AWS CLOUD QUEST – Cloud Practitioner (opens in a new tab)">
                         <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                         <span>Cloud Practitioner . 
                           <span class="inline-block">AWS CLOUD QUEST
@@ -690,7 +690,7 @@ https://learn.microsoft.com/api/credentials/share/en-us/FNULonglaJustineTekang-3
                   <div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                   <div class="z-10 sm:order-2 sm:col-span-6">
                     <h3>
-                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://www.credly.com/badges/75741a02-79a9-4653-84bf-a18f969808df/linked_in_profile" target="_blank" rel="noreferrer noopener" aria-label="AWS TECHNOLOGY – Architecting (opens in a new tab)">
+                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500  group/link text-base" href="https://www.credly.com/badges/75741a02-79a9-4653-84bf-a18f969808df/linked_in_profile" target="_blank" rel="noreferrer noopener" aria-label="AWS TECHNOLOGY – Architecting (opens in a new tab)">
                         <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                         <span>Architecting . 
                           <span class="inline-block">AWS TECHNOLOGY
@@ -716,7 +716,7 @@ https://learn.microsoft.com/api/credentials/share/en-us/FNULonglaJustineTekang-3
                   <div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                   <div class="z-10 sm:order-2 sm:col-span-6">
                     <h3>
-                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://www.credly.com/badges/fff4d190-9ed0-494a-ac5f-b4f2325695c8/linked_in_profile" target="_blank" rel="noreferrer noopener" aria-label="AWS Certified DevOps Engineer – Professional (opens in a new tab)">
+                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500  group/link text-base" href="https://www.credly.com/badges/fff4d190-9ed0-494a-ac5f-b4f2325695c8/linked_in_profile" target="_blank" rel="noreferrer noopener" aria-label="AWS Certified DevOps Engineer – Professional (opens in a new tab)">
                         <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                         <span>DevOps Engineer – Professional . 
                           <span class="inline-block">AWS Certified
@@ -742,7 +742,7 @@ https://learn.microsoft.com/api/credentials/share/en-us/FNULonglaJustineTekang-3
                   <div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                   <div class="z-10 sm:order-2 sm:col-span-6">
                     <h3>
-                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://www.credly.com/badges/4c6ff07e-6757-4da9-b59e-f5c8ae4eab4d/linked_in_profile" target="_blank" rel="noreferrer noopener" aria-label="AWS Certified Cloud Practitioner (opens in a new tab)">
+                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500  group/link text-base" href="https://www.credly.com/badges/4c6ff07e-6757-4da9-b59e-f5c8ae4eab4d/linked_in_profile" target="_blank" rel="noreferrer noopener" aria-label="AWS Certified Cloud Practitioner (opens in a new tab)">
                         <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                         <span>Cloud Practitioner . 
                           <span class="inline-block">AWS Certified
@@ -768,7 +768,7 @@ https://learn.microsoft.com/api/credentials/share/en-us/FNULonglaJustineTekang-3
                   <div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                   <div class="z-10 sm:order-2 sm:col-span-6">
                     <h3>
-                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://www.credly.com/badges/fff4d190-9ed0-494a-ac5f-b4f2325695c8/linked_in_profile" target="_blank" rel="noreferrer noopener" aria-label="AWS Certified DevOps Engineer – Professional (opens in a new tab)">
+                      <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500  group/link text-base" href="https://www.credly.com/badges/fff4d190-9ed0-494a-ac5f-b4f2325695c8/linked_in_profile" target="_blank" rel="noreferrer noopener" aria-label="AWS Certified DevOps Engineer – Professional (opens in a new tab)">
                         <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                         <span>DevOps Engineer – Professional . 
                           <span class="inline-block">AWS Certified
@@ -815,13 +815,13 @@ https://learn.microsoft.com/api/credentials/share/en-us/FNULonglaJustineTekang-3
               <li class="mb-12">
                 <div class="group relative grid grid-cols-8 gap-4 transition-all sm:items-center sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50"><div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                   <img alt="Telescope" loading="lazy" width="200" height="48" decoding="async" data-nimg="1" class="z-10 col-span-2 rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:col-span-2" style="color:transparent" srcset="/_next/image?url=%2Fimages%2Fwriting%2Falgolia-search.jpeg&amp;w=256&amp;q=75 1x, /_next/image?url=%2Fimages%2Fwriting%2Falgolia-search.jpeg&amp;w=640&amp;q=75 2x" src="/_next/image?url=%2Fimages%2Fwriting%2Falgolia-search.jpeg&amp;w=640&amp;q=75">
-                <div class="z-10 col-span-6"><p class="-mt-1 text-sm font-semibold leading-6">2020</p><h3 class="-mt-1"><a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://upstatement.com/blog/integrating-algolia-search-with-wordpress-multisite/" target="_blank" rel="noreferrer noopener" aria-label="Integrating Algolia Search with WordPress Multisite (opens in a new tab)"><span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span><span>Integrating Algolia Search with WordPress <span class="inline-block">Multisite<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path></svg></span></span></a></h3></div></div>
+                <div class="z-10 col-span-6"><p class="-mt-1 text-sm font-semibold leading-6">2020</p><h3 class="-mt-1"><a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500  group/link text-base" href="https://upstatement.com/blog/integrating-algolia-search-with-wordpress-multisite/" target="_blank" rel="noreferrer noopener" aria-label="Integrating Algolia Search with WordPress Multisite (opens in a new tab)"><span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span><span>Integrating Algolia Search with WordPress <span class="inline-block">Multisite<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path></svg></span></span></a></h3></div></div>
               </li>
               
               <li class="mb-12">
                 <div class="group relative grid grid-cols-8 gap-4 transition-all sm:items-center sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50"><div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                   <img alt="Headless horseamn" loading="lazy" width="200" height="48" decoding="async" data-nimg="1" class="z-10 col-span-2 rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:col-span-2" style="color:transparent" srcset="/_next/image?url=%2Fimages%2Fwriting%2Fheadless.jpeg&amp;w=256&amp;q=75 1x, /_next/image?url=%2Fimages%2Fwriting%2Fheadless.jpeg&amp;w=640&amp;q=75 2x" src="/_next/image?url=%2Fimages%2Fwriting%2Fheadless.jpeg&amp;w=640&amp;q=75">
-                  <div class="z-10 col-span-6"><p class="-mt-1 text-sm font-semibold leading-6">2019</p><h3 class="-mt-1"><a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://upstatement.com/blog/building-a-headless-mobile-app-cms-from-scratch/" target="_blank" rel="noreferrer noopener" aria-label="Building a Headless Mobile App CMS From Scratch (opens in a new tab)"><span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span><span>Building a Headless Mobile App CMS From <span class="inline-block">Scratch<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path></svg></span></span></a></h3></div></div>
+                  <div class="z-10 col-span-6"><p class="-mt-1 text-sm font-semibold leading-6">2019</p><h3 class="-mt-1"><a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-indigo-500 focus-visible:text-indigo-500  group/link text-base" href="https://upstatement.com/blog/building-a-headless-mobile-app-cms-from-scratch/" target="_blank" rel="noreferrer noopener" aria-label="Building a Headless Mobile App CMS From Scratch (opens in a new tab)"><span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span><span>Building a Headless Mobile App CMS From <span class="inline-block">Scratch<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path></svg></span></span></a></h3></div></div>
               </li>
             </ul>
           </div>
@@ -829,7 +829,7 @@ https://learn.microsoft.com/api/credentials/share/en-us/FNULonglaJustineTekang-3
         
       </main>
       <div>
-        <button class="hover:-text-teal-300 absolute bottom-0 right-0 inline-flex items-center px-2 py-4 font-medium text-slate-400 hover:-translate-y-2 focus-visible:text-teal-300" type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:R4l6:" data-state="closed">
+        <button class="hover:-text-indigo-500 absolute bottom-0 right-0 inline-flex items-center px-2 py-4 font-medium text-slate-400 hover:-translate-y-2 focus-visible:text-indigo-500" type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:R4l6:" data-state="closed">
           <span class="sr-only">Click to time travel</span>
           <!-- <img alt="Spinning Tardis from Doctor Who" loading="lazy" width="100" height="86" decoding="async" data-nimg="1" style="color:transparent" srcset="/image?url=%2Fimages%2Ftardis%2Frotate.gif&amp;w=128&amp;q=75 1x, /_next/image?url=%2Fimages%2Ftardis%2Frotate.gif&amp;w=256&amp;q=75 2x" src="/image?url=%2Fimages%2Ftardis%2Frotate.gif&amp;w=256&amp;q=75"> -->
         </button>
