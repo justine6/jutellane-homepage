@@ -23,12 +23,15 @@ export default {
     <div class="lg:flex lg:justify-between lg:gap-4">
       <header class="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24">
         <div>
-          <h1 class="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl dark:text-primary-light">
+          <h1 class="text-4xl font-bold tracking-tight text-slate-500 sm:text-5xl dark:text-primary-light">
             <a href="/">
-              IAM Justine Longla
+              Justine Tekang <br> Longla 
+              <small>
+                (Jutel)
+              </small>
             </a>
           </h1>
-          <h2 class="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
+          <h2 class="mt-3 text-lg font-medium tracking-tight text-slate-400 sm:text-xl">
             Azure & AWS Cloud Engineer
           </h2>
           <p class="mt-4 max-w-xs leading-normal text-gray-400">
